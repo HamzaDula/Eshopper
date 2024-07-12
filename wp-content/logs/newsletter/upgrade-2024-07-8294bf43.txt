@@ -1,0 +1,76 @@
+03-07-2024 13:28:50 - INFO  - 8.4.2 - 79.7 MB/256 MB - eshopper > Start upgrade from 0.0.0
+03-07-2024 13:28:50 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+03-07-2024 13:28:50 - INFO  - 8.4.2 - 79.9 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 79.9 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 79.9 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > Backing up options of 0.0.0
+03-07-2024 13:28:51 - INFO  - 8.4.2 - 80.0 MB/256 MB - eshopper > End
+10-07-2024 07:12:52 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Start upgrade from 8.4.2
+10-07-2024 07:12:52 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+10-07-2024 07:12:52 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+10-07-2024 07:12:52 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > Backing up options of 8.4.2
+10-07-2024 07:12:53 - INFO  - 8.4.4 - 12.0 MB/128 MB - [cron] > End
